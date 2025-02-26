@@ -1,2 +1,2 @@
-# Mini-project
-#This project is stand a mini project that mark as foundation of the road become business analytics
+#Nood project
+#This project is a mini project that marks the foundation of the road to becoming business analytics
